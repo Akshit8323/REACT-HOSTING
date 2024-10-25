@@ -1,0 +1,75 @@
+#a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f5e8e8;
+  }
+  
+  #s {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  input:focus {
+    border-color: #007BFF;
+    outline: none;
+  }
+  
+  #s4  {
+    width: 50%;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  #s5 {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  
+  a {
+    color: #007BFF;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .fa-brands {
+    font-size: 24px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
